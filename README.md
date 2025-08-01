@@ -109,6 +109,13 @@ PORT=5000
 MONGO_URI=mongodb://localhost:27017/transpolymer
 ```
 
+For MongoDB Atlas:
+
+```env
+MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/transpolymer
+```
+
+
 
 
 
