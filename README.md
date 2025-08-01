@@ -2,8 +2,6 @@
 
 **TransPolymer** is an intelligent, full-stack AI system developed to predict various polymer properties directly from their SMILES (Simplified Molecular Input Line Entry System) notations. The project brings together the power of **natural language processing**, **deep learning**, and the **MERN stack** to provide a robust and user-friendly platform for materials science applications.
 
-This project was initiated as part of the **KMCE GenAI Project School** and later extended with full-stack integration for real-world usability.
-
 ---
 
 ## 📌 Key Features
