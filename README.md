@@ -49,6 +49,7 @@ Navigate to the `server` directory and install all required Python packages:
 ```bash
 cd server
 pip install -r requirements.txt
+---
 
 Ensure the following subdirectories exist within server/:
 
