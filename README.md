@@ -45,12 +45,6 @@ Before proceeding, ensure the following are installed:
 ## 📦 Install Python Dependencies
 
 Navigate to the `server` directory and install all required Python packages:
-
-```bash
-cd server
-pip install -r requirements.txt
----
-
 Ensure the following subdirectories exist within server/:
 
 merged_chemberta/ — Custom masked language model
@@ -68,4 +62,11 @@ EPS_weights.pt
 Nc_weights.pt
 
 Xc_weights.pt
+
+
+```bash
+cd server
+pip install -r requirements.txt
+
+
 
