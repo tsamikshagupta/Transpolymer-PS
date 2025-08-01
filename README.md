@@ -21,7 +21,7 @@ This project was initiated as part of the **KMCE GenAI Project School** and late
 ```bash
 git clone https://github.com/your-username/transpolymer.git
 cd transpolymer
-
+```
 ---
 ##🔧 Backend Setup – TransPolymer
 
@@ -67,6 +67,14 @@ Xc_weights.pt
 ```bash
 cd server
 pip install -r requirements.txt
+```
+## 📦 Install Node.js Dependencies
+
+Install the required Node.js packages for backend integration:
+
+```bash
+npm install
+```
 
 
 
