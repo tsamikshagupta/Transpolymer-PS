@@ -1,10 +1,10 @@
-# 🧪 TransPolymer: AI-Powered Polymer Property Predictor
+#  TransPolymer: AI-Powered Polymer Property Predictor
 
 **TransPolymer** is an intelligent, full-stack AI system developed to predict various polymer properties directly from their SMILES (Simplified Molecular Input Line Entry System) notations. The project brings together the power of **natural language processing**, **deep learning**, and the **MERN stack** to provide a robust and user-friendly platform for materials science applications.
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
 - 🔬 Predicts key polymer properties using a custom-trained Transformer-based masked language model and six regression heads.
 - 🧠 Custom BPE tokenizer optimized for SMILES sequences.
@@ -13,7 +13,7 @@
 - 💻 User-friendly web interface with live predictions and detailed outputs.
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -29,7 +29,7 @@ This document outlines the setup instructions for the backend of the **TransPoly
 
 ---
 
-## ✅ Requirements
+##  Requirements
 
 Before proceeding, ensure the following are installed:
 
@@ -40,7 +40,7 @@ Before proceeding, ensure the following are installed:
 
 ---
 
-## 📦 Install Python Dependencies
+##  Install Python Dependencies
 
 Navigate to the `server` directory and install all required Python packages:
 Ensure the following subdirectories exist within server/:
@@ -74,7 +74,7 @@ Install the required Node.js packages for backend integration:
 npm install
 ```
 
-## ▶ Start Node Backend Server
+##  Start Node Backend Server
 
 Start the Node.js server, which internally calls the Python model:
 
