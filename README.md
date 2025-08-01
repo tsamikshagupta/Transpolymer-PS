@@ -84,11 +84,11 @@ node index.js
 
 ---
 
-## 🌐 Frontend Setup (React)
+##  Frontend Setup (React)
 
 > **Directory**: `react/`
 
-### 📦 Install Dependencies
+###  Install Dependencies
 
 ```bash
 cd react
@@ -96,13 +96,13 @@ npm install
 ```
 
 ---
-## 🍃 MongoDB Setup
+##  MongoDB Setup
 
 Ensure MongoDB is running locally, or configure a remote MongoDB Atlas cluster for production.
 
 > This is required for storing user inputs, predictions, or application data (if applicable).
 
-### 🗂️ Sample `.env` file (place inside the `server/` directory)
+###  Sample `.env` file (place inside the `server/` directory)
 
 ```env
 PORT=5000
