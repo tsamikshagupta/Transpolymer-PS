@@ -23,7 +23,7 @@ git clone https://github.com/your-username/transpolymer.git
 cd transpolymer
 ```
 ---
-##🔧 Backend Setup – TransPolymer
+## Backend Setup – TransPolymer
 
 This document outlines the setup instructions for the backend of the **TransPolymer** project, which includes the Python-based AI model and the Node.js server interface.
 
