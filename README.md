@@ -68,12 +68,20 @@ Xc_weights.pt
 cd server
 pip install -r requirements.txt
 ```
-## 📦 Install Node.js Dependencies
+##  Install Node.js Dependencies
 
 Install the required Node.js packages for backend integration:
 
 ```bash
 npm install
+```
+
+## ▶ Start Node Backend Server
+
+Start the Node.js server, which internally calls the Python model:
+
+```bash
+node index.js
 ```
 
 
